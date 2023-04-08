@@ -1,4 +1,4 @@
-# YoloSide ~ A GUI For YoloV8 `V2.0`
+# YoloSide ~ A GUI For YoloV8 `V1.0`
 ---
 ![](img/home.png)
 
